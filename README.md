@@ -4,11 +4,9 @@
 
 This MATLAB app simulates the deposition of sand on the updrift side and the erosion of sand on the downdrift side of a groin. The simulation uses a one-line contour model to calculate and visualize shoreline evolution over time.
 
----
 
 ## Key Features
 
----
 
 - **Deposition & Erosion Modeling:** Simulates the deposition of sand on the updrift side and erosion on the downdrift side of a groin.
 - **Dynamic Visualization:** Displays the shoreline evolution and real-time sediment transport (Q) as the simulation progresses.
@@ -17,8 +15,6 @@ This MATLAB app simulates the deposition of sand on the updrift side and the ero
 ---
 
 ## Components
-
----
 
 1. **Input Fields:**
    - **Groin Length:** The length of the groin in meters.
@@ -35,8 +31,6 @@ This MATLAB app simulates the deposition of sand on the updrift side and the ero
 ---
 
 ## Concepts
-
----
 
 ### 1. **Deposition & Erosion:**
 - **Updrift Deposition:** Sand is trapped on the updrift side of the groin, causing the shoreline to extend.
@@ -64,16 +58,12 @@ This MATLAB app simulates the deposition of sand on the updrift side and the ero
 
 ## Workflow
 
----
-
 1. **Enter Parameters:** Input the groin length, wave angle, and diffusivity.
 2. **Start Simulation:** Click the "Calculate" button to start the simulation.
 3. **Visualize Results:** Watch the shoreline evolution on the plot in real time.
 4. **Stop Simulation:** Click the "Stop" button to stop the simulation if needed.
 
 ## Example of the Simulation
-
----
 
 The app will display a shoreline with the following features:
 - The **magenta region** represents the evolving shoreline over time.
@@ -84,8 +74,6 @@ The app will display a shoreline with the following features:
 The simulation stops once the groin reaches bypassing capacity.
 
 ## Suggestions for Future Enhancements
-
----
 
 1. **Improved Visualization:**
    - Use different colors for deposition and erosion (e.g., green for deposition, red for erosion).
