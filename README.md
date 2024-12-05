@@ -42,9 +42,6 @@ This MATLAB app simulates the deposition of sand on the updrift side and the ero
 
 ### 3. **Impounded Sand Volume:**
 - To calculate the impounded sand volume:
-  \[
-  \text{Impounded Volume} = Q \times (B + h*)
-  \]
   - **B:** Berm height (vertical distance from the shoreline to the beach crest).
   - **h\*:** Depth of closure (depth at which wave action no longer moves sediment).
 
