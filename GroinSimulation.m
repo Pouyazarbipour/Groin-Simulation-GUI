@@ -1,3 +1,5 @@
+%% POUYA ZARBIPOUR LAKPOSHTEH EMAIL: pouyazarbipour@gmail.com
+
 classdef GroinSimulation < matlab.apps.AppBase
 
     % Properties that correspond to app components
@@ -141,10 +143,10 @@ classdef GroinSimulation < matlab.apps.AppBase
             app.GroinLengthLabel = uilabel(app.UIFigure, 'Position', [50, 550, 150, 22], 'Text', 'Groin Length (m):');
             app.GroinLengthEditField = uieditfield(app.UIFigure, 'numeric', 'Position', [200, 550, 100, 22], 'Value', 200);
 
-            app.WaveAngleLabel = uilabel(app.UIFigure, 'Position', [50, 500, 150, 22], 'Text', 'Breaking Wave Angle (°):');
+            app.WaveAngleLabel = uilabel(app.UIFigure, 'Position', [50, 500, 150, 22], 'Text', 'Breaking Wave Angle (Â°):');
             app.WaveAngleEditField = uieditfield(app.UIFigure, 'numeric', 'Position', [200, 500, 100, 22], 'Value', 20);
 
-            app.DiffusivityLabel = uilabel(app.UIFigure, 'Position', [50, 450, 150, 22], 'Text', 'Shoreline Diffusivity (m²/s):');
+            app.DiffusivityLabel = uilabel(app.UIFigure, 'Position', [50, 450, 150, 22], 'Text', 'Shoreline Diffusivity (mÂ²/s):');
             app.DiffusivityEditField = uieditfield(app.UIFigure, 'numeric', 'Position', [200, 450, 100, 22], 'Value', 0.001);
 
             % Create buttons
