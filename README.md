@@ -2,7 +2,8 @@
 
 ---
 
-This MATLAB app simulates the deposition of sand on the updrift side and the erosion of sand on the downdrift side of a groin. The simulation uses a one-line contour model to calculate and visualize shoreline evolution over time.
+This app simulates the deposition of sand on the updrift side and the erosion of sand on the downdrift side of a groin. The simulation uses a one-line contour model to calculate and visualize shoreline evolution over time.
+To download the **.EXE** file, visit this [link](https://drive.google.com/file/d/1LgnKmB1FQgMRq0M3wRy8OpBd7kRZF7wK/view?usp=sharing).
 
 
 ## Key Features
